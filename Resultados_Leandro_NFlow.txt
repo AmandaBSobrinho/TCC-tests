@@ -1,0 +1,55 @@
+DOS
+
+Sensibilidade = 0.1723076923076923
+
+Especificidade = 0.9923076923076923
+
+Acurácia = 0.5823076923076923
+
+Precisão = 0.9572649572649573
+
+
+Bruteforce
+
+Sensibilidade = 0.7709090909090909
+
+Especificidade = 0.9836363636363636
+
+Acurácia = 0.8772727272727273
+
+Precisão = 0.9792147806004619
+
+
+Scan2
+
+Sensibilidade = 1.0
+
+Especificidade = 0.3
+
+Acurácia = 0.65
+
+Precisão = 0.5882352941176471
+
+
+Scan
+
+Sensibilidade = 1.0
+
+Especificidade = 0.3
+
+Acurácia = 0.65
+
+Precisão = 0.5882352941176471
+
+
+Scan de Vulnerabilidades
+
+Sensibilidade = 1.0
+
+Especificidade = 0.982
+
+Acurácia = 0.991
+
+Precisão = 0.9823182711198428
+
+
